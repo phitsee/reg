@@ -1,4 +1,5 @@
 # `reg` - Native ESM Package Management
+[![Run on Repl.it](https://repl.it/badge/github/mikeal/reg)](https://repl.it/github/mikeal/reg)
 
 `reg` is a package manager for native ES Modules. It's
 built to enable dependency management for Universal JavaScript
